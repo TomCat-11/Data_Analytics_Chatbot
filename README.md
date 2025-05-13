@@ -10,5 +10,5 @@ Follow the steps below to set up and run the application.
 ```bash
 pip install -r requirements.txt
 
-stramlit run app.py
+streamlit run app.py
 
